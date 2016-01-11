@@ -5,4 +5,4 @@
  * @author thinking
  *
  */
-package com.test.demo;
+package com.test;
